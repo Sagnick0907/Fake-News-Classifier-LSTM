@@ -20,11 +20,11 @@ For the NLP implementation code –
       - from tensorflow.keras.preprocessing.text import [one_hot](https://www.tensorflow.org/api_docs/python/tf/one_hot?hl=en)
       - from tensorflow.keras.layers import [LSTM](https://www.tensorflow.org/api_docs/python/tf/keras/layers/LSTM)
       - from tensorflow.keras.layers import [Dense](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Dense)
-      - import nltk
-      - import re
+      - nltk
+      - re
       - from nltk.corpus import stopwords
       - from nltk.stem.porter import PorterStemmer
-      - import numpy as np
+      - numpy
       - from sklearn.model_selection import train_test_split
       - from sklearn.metrics import confusion_matrix, accuracy_score
   -	Imported the Dataset, dropped rows containing missing data, reset the index.
