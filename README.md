@@ -35,7 +35,7 @@ For the NLP implementation code –
   -	Created our NN model.
   -	Performed a **train_test_split** on labels & messages.
   -	Trained & tested the model.
-  -	**Accuracy = 91% **
+  -	**Accuracy = 91%**
       
 ## Technologies Used
 - Jupyter Notebook
