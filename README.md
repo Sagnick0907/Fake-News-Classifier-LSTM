@@ -39,5 +39,5 @@ For the NLP implementation code –
       
 ## Technologies Used
 - Jupyter Notebook
--	ML model: Customized LSTM Model
+-	ML model: LSTM Model
 -	Libraries: pandas, numpy, re, nltk, tensorflow, sk-learn.
